@@ -1,0 +1,21 @@
+{
+  "short_name": "Bovali Studio",
+  "name": "Bovali | AI Surface Studio",
+  "description": "An AI-powered tool for Bovali that applies texture patterns and materials to product renders.",
+  "icons": [
+    {
+      "src": "/icon-192.svg",
+      "type": "image/svg+xml",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/icon-512.svg",
+      "type": "image/svg+xml",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#5D5D3B",
+  "background_color": "#F5F3EF"
+}
